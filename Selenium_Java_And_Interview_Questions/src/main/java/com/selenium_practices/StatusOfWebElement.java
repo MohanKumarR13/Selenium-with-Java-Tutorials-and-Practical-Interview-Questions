@@ -2,6 +2,7 @@ package com.selenium_practices;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
@@ -14,21 +15,10 @@ public class StatusOfWebElement {
 		WebDriverManager.chromedriver().setup();
 		driver = new ChromeDriver();
 		driver.get("https://www.nopcommerce.com/en/register");
-		Boolean isEnable = driver.findElement(By.name("FirstName")).isEnabled();
-		Boolean isDisplay = driver.findElement(By.name("FirstName")).isDisplayed();
-		if (isEnable) {
-			System.out.println("First Name Input Box is Enabled");
-		} else {
-			System.out.println("First Name Input Box  is Not Enabled");
-
-		}
-
-		if (isDisplay) {
-			System.out.println("First Name Input Box is Displayed");
-		} else {
-			System.out.println("First Name Input Box is Not Displayed");
-
-		}
+		WebElement FirstName = driver.findElement(By.name("FirstName"));
+		// Is Enabled and Is Displayed
+		System.out.println("Enable Status : " + FirstName.isEnabled());
+		System.out.println("Display Status : " + FirstName.isDisplayed());
 
 	}
 
