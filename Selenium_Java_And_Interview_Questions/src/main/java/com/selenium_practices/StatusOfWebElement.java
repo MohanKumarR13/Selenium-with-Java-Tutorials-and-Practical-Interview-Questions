@@ -14,6 +14,7 @@ public class StatusOfWebElement {
 		// Using Webdriver Manager
 		WebDriverManager.chromedriver().setup();
 		driver = new ChromeDriver();
+		driver.manage().window().maximize();
 		driver.get("https://www.nopcommerce.com/en/register");
 		WebElement FirstName = driver.findElement(By.name("FirstName"));
 		// Is Enabled and Is Displayed

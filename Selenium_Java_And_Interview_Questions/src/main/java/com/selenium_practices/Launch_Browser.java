@@ -12,6 +12,7 @@ public class Launch_Browser {
 		// Using Webdriver Manager
 		WebDriverManager.chromedriver().setup();
 		driver = new ChromeDriver();
+		driver.manage().window().maximize();
 		driver.get("https://www.nopcommerce.com/en");
 		System.out.println("Title of the web page : " + driver.getTitle());
 		System.out.println("Title of the web page : " + driver.getCurrentUrl());
