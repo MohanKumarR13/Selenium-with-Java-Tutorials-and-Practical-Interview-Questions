@@ -1,0 +1,8 @@
+<input name="email" id="user" value="admin@yourstore.com">abc@gmail.com</input>
+getAttribute("name")--->email
+getAttribute("id")--->user
+getAttribute("value")--->admin@yourstore.com
+abc@gmail.com-->inner text
+getText()-->abc@gmail.com
+
+
