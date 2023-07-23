@@ -17,7 +17,7 @@ import org.openqa.selenium.edge.EdgeDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class UploadFile {
+public class DownloadWordFile {
 
 	public static void main(String[] args) throws AWTException {
 		WebDriverManager.edgedriver().setup();
