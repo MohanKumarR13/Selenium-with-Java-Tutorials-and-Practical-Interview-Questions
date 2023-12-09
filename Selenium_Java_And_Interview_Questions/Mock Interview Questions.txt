@@ -1,0 +1,391 @@
+Freshers
+-----------
+1.SDLC And STLC and their phases
+2.Models in SDLC
+3.VModel Test
+4.Statiscal Test
+5.Functional Testing
+6.Start And Persorm the functional test how will start or where we start
+->Requirement study well
+->Ready test data based on input
+7.When we start the test case
+  ->After test plan we create the test cases
+8.Explore the application and prepare test cases
+9.Regression testing
+Testing modified changes existing function is not affected
+10.How to write a test case
+1.Known the requirements
+2.Where will requirement->understands the functionality
+3.Known test scenarios
+4.SRS->Software Requirement Specific
+  FRS->Function->usecase also requirement
+11.Test Scenario Vs Test Cases
+12.Priority Vs Seviority
+13.Defect Life Cycle
+14.Agile Process
+Team Communication
+Less Documentation
+Software Delivery
+No Long time to wait
+15.Testing techniques like as boundary value analysis
+16.Positive and negative testing
+17.File Upload Test Cases (Positive and Negative test case)
+18.OOPS Concepts Supported By Java
+19.What is Class and Object
+20.Difference Between Method Overloading and Overriding
+21.What is Overloading and Overriding
+22.Use of Super Keyword and when we use
+23.What is an Abstract method 
+24.Where we create abstract method
+25.Java Collections
+
+SQL
+---
+Sigle table,Single Query,Sub Query,Max Function,Customer table,Group event,Joins
+=======================================================================================================
+[0-2 Years]
+1.White and Black box testting
+2.Static and dynamic testing
+3.Functional and Non Functional Testing
+4.Adhoc Testing =>Need Requirement
+5.Explority Testing
+6.Smoke and Sanity testing Done By(Dev and Tester)
+7.Difference Between Build and Release
+8.Cross Browser and Cross Platform testing
+9.Write an test cases anf techniques
+10.Testing techniques
+11.Agile Process
+12.Advantages for agile process from customer scale
+13.Product Backlog and Sprint Backlog
+14.Scrum meet
+15.Agile process cerimory
+16.Difference between Constructor and Method
+17.Can we create both constructor and method in single class
+18.What is the purpose of Constructor and method
+19.What is overloading
+20.What is overriding
+21.What basis to choose automation
+22.Data Driven and regression testing
+23.What are differnt locators in automation
+24.What is an Xpath
+25.howxpath work on identify and DOM Explan
+26.Find Elements and Find Element
+27.Difference Between Close and Quit
+28.Closing Multiple Browser based on their choice
+29.Get Window Handle and Ge Window Handles
+30.What is the use of Action Class
+31.What is the method use i right click
+32.Difference Between Action and Actions
+33.How to Handle Dropdown
+34.Select Class
+35.Parallel Testing
+36.Assertions in TestNG(Validation Points)
+37.Dataprovider in TestNG
+38.Page Object Model In Automation
+39.Use Of Page Object Model
+========================================================================================================================================================
+[1-3 Experience]
+1.Testing Process
+2.Why do you software?main purpose of software testing
+3.How will you write a test cases
+4.Before write a test case ? How will Known Application inputs
+5.How will you ensure All Test Cases(RCM)
+6.Racibility Matrix Test Technique
+7.How will you Start the test case
+8.Before Starting the excecution test case
+9.When Executing Find the Bug
+10.Before Defecting Report(Browser,Screenshots,Environment)
+11.Developer is not accepted the bug
+12.Non-Producibe and Can't Resolved the Conflict
+13.Priority and Seviority and Medium Priority
+14.Report the defect to developers and what is feedback
+15.What is the difference between epic story and task
+16.For testing the story for different tasks or activities
+17.Sprint and Sprint Review Meeting
+18.What is an story point in sprint
+19.What ia scrum board and what contains
+20.Where we track agile activity
+
+JAVA Questions
+---------------
+1.I Have an Two Strings I want to check compare to equal or not
+  Equals Method and Equals Ignores method
+2.Overloading and Overload have main method
+3.Overriding
+4.When We use Override and Overload
+5.Final Keyword and What is the use of final and when we use final
+6.I Created variable in final and what will happen
+7.Method is Final what will happen
+8.Class is Final what will happen
+9.Reverse the String Program
+10.I have an Array which contains 1,2,3,4,5 elements i want to find sum of elements
+11.Java Different types Collections 
+12.Collections In Java
+13.When we use Collections(Stores the Value)
+14.What is difference between List and set Collections
+15.I have a list with few elements i want to extract specific element?(Collections.get(2)) and insert into set (set collections is not there)
+
+Automation
+------------
+1.Different types of Locators
+2.Link Text and Partial Text Difference
+3.Different types of Xpath and What is the differnce of these
+4.Which Xpath is prefer (relative) xpath and why
+5.Same Id have one button but actions are differ How we write an single xpath (Dynamically Changed Start and Stop)->Use Contains method
+OR and END Operators
+6.Wait Statement and Their Types and Their Differnce
+7.Implicity Wait is Applicable for all test cases or all statements
+8.Explicity Wait is specific an element
+9.Webelement capture the text
+10.Logo Displayed or not how to check
+11.How to Handle Dropdown
+12.--Can we directly get those from dropdown--
+13.Do you know assertions in TestNG
+14.What is the use of Assertions
+15.How many types of Assertions we have
+
+Framework
+---------
+1.What kind of framework we use in automation
+2.What kind of report we use in automation
+3.Reusable of Component And the What is the main purpose(Screenshot,Logs,Property file,Utills,Reports)
+4.Do you face any challenges while writting the automation
+5.How to maintain the page object class
+6.Parallel test
+7.Automation Scripts
+============================================================================================================================================================
+[1-3 Experience]
+1.Explain About STLC
+2.While Writting the Test Cases what the contents are included
+3.What is Difference Between Functional and Non Functional Testing
+4.When we perform Non Functional Testing and examples
+5.OTP Authentication Test Functionality and Test Cases and Scenarios
+6.While writting the test cases any follow the tecniques
+7.What is seviority and priority
+8.Who will give the seviority and priority
+
+JAVA Questions
+----------------
+1.What is the Difference Between Method and Constructor
+2.What is an Abstrct Method
+3.Where we can write abstrct method in java
+4.You have to create abstract method and where will implement the those methods
+5.What is Inheritence and how many types
+6.Why its not supported in Multiple Inheritence
+7.What is the use of this keyword and when we use
+8.Same Global and Local name will it work
+9.Lets have an array and find the How many even numbers and odd numbers
+
+Automation
+----------
+1.Explain about the Locators and their types
+2.100 Links are in webpage how we find all the links
+3.How to find the total number of links and how to find the length
+4.I have difference 7 checkbox and 7 days i want to select the last 3 checkbox without repeating same statement
+5.Javascript excecutor and its class or interface
+5.How to perform mouse actions and its class or interface
+6.Difference Between Action and Actions
+7.Few methods in Action Class and Right Click Action
+8.Have You Use TestNG and Their Features
+9.Test Class Level how will use TestNG
+10.10 Test Methods we create how we skip some of methods or any other way to skip the test
+11.Depended method is fail what will happen in next method
+12.Dataprovider in TestNG
+13.Dataprovider is passing 5 inputs to other method and method is repeating 5 times repeat the actual method
+14.Exceptions facing in Automation
+15.Stale Element Exception when occured
+
+BDD
+---
+1.BDD approch how will differ in other approch
+2.Normally what kind of files create in BDD
+3.What is the feature file contains
+
+Maven
+-----
+1.What is the use of maven and advantages 
+
+Git
+---
+1.What is the Use of Git
+===================================================================================================================================================================
+[1-3 Experience]
+JAVA Questions
+==============
+1.What is An Inheritance
+2.What is the use of Inheritance (What is benefit of extends super class to sub class)
+3.When do we use static keyword and what is the purpose of static keyword
+4.Access Modifier in java and their explanation
+5.Default Access modifier requires in specify in compiler or method
+6.Why we handle the Java Exceptions
+7.Interface have public method
+8.One class is consider an method called as default access modifier
+9.We Dont know which exception is occured and how we handle the exception
+10.String s1="Selenium,Java,TestNG,Maven";  how we split multiple
+11.What is the split method return
+12.String str1="ABC";String str2="XYZ";String str3="PQR" and concatinate the three strings 
+  Sysout("Result" : +str1 " "+str2 " "+str3);
+Selenium Automation
+===================
+13.What is the Role in Automation Day to day basis 
+14.What is the Contribution in Automation
+15.You have 100 Manual Test Cases you want to automate the automation some of test cases excluded
+16.Excluded test cases are manually working
+17.Selenium Locators
+18.What is the Difference Between Xpath and Cssselector
+19.GetText and GetAttribute Difference
+20.For Example use gettext in label or link
+21.When do we use wait statement
+22.Desiredcapabilities and where we use
+23.Which format is accept in desiredcapabilities
+24.Automation Exceptions
+25.When we get statle element exception
+26.Use of Javascript excecutor
+27.How to find the all the dropdown values and the find the size
+APACHE POI
+==========
+28.what we use in apache poi
+TESTNG
+======
+29.Which important we use in Automation
+30.Paralelel Testing
+31.How we excecute order wise
+32.Priority 1 and Priority is not set how its run
+33.What is use of annotations in testng
+34.What is the role of XML File in testng
+35.I have test case and xml file and excecute to my test case in xml how we pass the parameter
+36.TestNG Listeners and uses
+37.what are the methods in Listeners in TestNG
+FrameWork
+=========
+38.What is the Object Repository and how we create
+39.What kind of framework we worked 
+40.What is the POM.xml contents
+41.How we run the cmd in pom file
+42.Any Known Maven Commands
+43.What is the Build tool we use 
+=====================================================================================================================================================================
+[1-3 Experience]
+1.We have an Constructor how we call in main method
+2.Constructor  is static or non static
+3.Method Overloading and constructor over loading
+4.Difference between Overload and Override
+5.Without super keyword we can use override
+6.Use of Final Keyword
+7.Difference of Final and Finally
+8.Where we use finalized method and what is that(finally,final,finalize)
+9.use of static keyword
+10.Can we override the static method(can't)
+11.Hybrid Inheritance
+12.Types of Inheritance
+13.Known Multiple Inheritance and how we can Acheive it
+14.A,B are Interfaces C is an class i want to extend to subclass
+15.List and Set Difference
+16.Item from list how we extract
+17.Item from set how we extract
+18.Where we use List and Set Collections
+JAVA Questions
+==============
+19.How mnay vowels are present in the string
+20.Regular Expression in Java
+21.How many Total No.Of Vowels
+Selenium Automation
+===================
+22.What is the WebDriver
+23.Search Context in Selenium
+24.Webdriver is an class or Interface
+25.How we Arrange the order in Multiple Test Cases which we run first
+26.Dropdown Dont have Select Tag but we have to select the data
+27.Capture the Screenshot
+28.Why we Type case the driver in Takescreenshot or without we use type cast in driver
+29.Use of Actions Class
+30.Explain the build and perform in Actions
+31.Action and Actions Using Program
+32.Difference Between Find Element and Find Elements
+33.In Find Element is Not There what exception is showing
+34.Find Elements are Multiple Locator is not match (Zero Elements)
+35.Xpath access
+36.How we handle broken links
+37.What are property files we use in automation
+38.How we read the data from property file
+39.Resusable Components 
+40.How we maintain the webelements
+41.Advantage og Page Object Model
+TestNG
+======
+42.Main Advantages og TestNg
+43.TestNG Listeners and their uses
+
+44.Desiredcapability and their uses
+45.Headless mode excecution
+46.Challanges faces on Automation
+47.How we run frequently run the test cases
+48.How we get the result and how we report in Automation
+===================================================================================================================================================================
+[3-5 Experience]
+1.Agile Process Limitations,Merits,Facing Challanges
+2.How will Ensure the multiple test cases execution
+3.Maintain the checklist for manual and automation testing
+4.In Project how we test manually what kind of various types conducted
+5.What is integration testing
+6.Have you Done any performance testing
+7.While write a test cases following any techniques
+8.Did you miss any bug is production
+9.As well as find the bug in production what will do
+10.When do we perform regression testing
+11.When do we perform regression testing and what are the things we considered
+12.Manually testing point of you during regression testing
+13.Do you ask anything to developer for fixed bug what are fixing
+14.Change Request and Feature Request
+JAVA Questions
+==============
+15.Tell me some important features Java in Automation
+16.Do you use Any Collections
+17.Difference Between Set and List
+18.What is the use of final keyword
+19.Difference Between Finally and Final
+20.Have a two numbers which is largest number without using if/else[Ternary Operator] int y=a>b?a:b;
+21.Have a string how many string is upper case and how many lower case
+Selenium
+========
+22.WebDriver driver=new ChromeDriver(); Explanation
+23.Have you use any wait statements
+24.Why we use wait statement
+25.When we use explicity wait and expected condition explanation
+26.What is the use of desiredcapabilities
+27.What is the DOM
+28.What is the xpath and how we use and find the element where we locate
+29.Absolute And Relative Xpath
+30.Which xpath is preferable to use and why
+31.Do you see any demerits in absolute xpath compare with others
+32.Have you use Javascript Excecutor and what they are uses
+33.How we handle multiple windows
+34.What is the difference between Get window handle and get window handles
+35.How to find the how many number of options there in dropdown
+36.How we can do mouse actions
+37.Action is class or interface
+38.Actions is class or interface
+39.Hard assert and soft assert in testng
+40.In testng Prioritized
+41.some of test cases are have priority and some of not set in priority
+42.Same priority is set to run how we run
+43.First time excecution some of test cases are passed and some of failed how we run the failed test case
+Hybrid Framework
+=================
+44.Explain about Hybrid framework
+45.What kind of reports we use
+46.How we frequenly run the automation test cases
+47.How many bugs find use automation excecution
+48.How many test cases automated test cases count
+49.Find the bugs i after automation how we inform to developers
+50.Any 	ntegration script in automation
+51.What the Benefits of Maven Project Creation and use
+52.What the task we done using the jenkins
+53.How jenkins get the automation code
+54.How frequently checking the code in git
+55.Any Basics command for Git
+=======================================================================================================================================================================
+
+
+
+
